@@ -6,3 +6,12 @@ C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatEntity\b
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatEntity\bin\Debug\ChatEntity.pdb
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatEntity\obj\Debug\ChatEntity.dll
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatEntity\obj\Debug\ChatEntity.pdb
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\bin\Debug\ChatEntity.dll.config
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\bin\Debug\ChatEntity.dll
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\bin\Debug\ChatEntity.pdb
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\obj\Debug\ChatEntity.csprojAssemblyReference.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\obj\Debug\ChatEntity.Properties.Resources.resources
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\obj\Debug\ChatEntity.csproj.GenerateResource.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\obj\Debug\ChatEntity.csproj.CoreCompileInputs.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\obj\Debug\ChatEntity.dll
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatEntity\obj\Debug\ChatEntity.pdb

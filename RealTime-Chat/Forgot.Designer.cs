@@ -38,7 +38,7 @@
             this.txtEmail = new ns1.BunifuMetroTextbox();
             this.btnRegister = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.txtSecretanser = new ns1.BunifuMetroTextbox();
+            this.txtSecretanswer = new ns1.BunifuMetroTextbox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnExit)).BeginInit();
             this.SuspendLayout();
@@ -117,6 +117,7 @@
             this.txtUsername.Size = new System.Drawing.Size(275, 35);
             this.txtUsername.TabIndex = 1;
             this.txtUsername.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtUsername.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtUsername_KeyDown);
             // 
             // txtEmail
             // 
@@ -134,6 +135,7 @@
             this.txtEmail.Size = new System.Drawing.Size(275, 35);
             this.txtEmail.TabIndex = 2;
             this.txtEmail.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtEmail.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtEmail_KeyDown);
             // 
             // btnRegister
             // 
@@ -157,22 +159,22 @@
             this.label4.TabIndex = 1;
             this.label4.Text = "Secret Answer";
             // 
-            // txtSecretanser
+            // txtSecretanswer
             // 
-            this.txtSecretanser.BorderColorFocused = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(204)))), ((int)(((byte)(129)))));
-            this.txtSecretanser.BorderColorIdle = System.Drawing.Color.White;
-            this.txtSecretanser.BorderColorMouseHover = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(204)))), ((int)(((byte)(129)))));
-            this.txtSecretanser.BorderThickness = 2;
-            this.txtSecretanser.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txtSecretanser.Font = new System.Drawing.Font("Century Gothic", 9.75F);
-            this.txtSecretanser.ForeColor = System.Drawing.Color.White;
-            this.txtSecretanser.isPassword = true;
-            this.txtSecretanser.Location = new System.Drawing.Point(13, 239);
-            this.txtSecretanser.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSecretanser.Name = "txtSecretanser";
-            this.txtSecretanser.Size = new System.Drawing.Size(275, 35);
-            this.txtSecretanser.TabIndex = 3;
-            this.txtSecretanser.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtSecretanswer.BorderColorFocused = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(204)))), ((int)(((byte)(129)))));
+            this.txtSecretanswer.BorderColorIdle = System.Drawing.Color.White;
+            this.txtSecretanswer.BorderColorMouseHover = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(204)))), ((int)(((byte)(129)))));
+            this.txtSecretanswer.BorderThickness = 2;
+            this.txtSecretanswer.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtSecretanswer.Font = new System.Drawing.Font("Century Gothic", 9.75F);
+            this.txtSecretanswer.ForeColor = System.Drawing.Color.White;
+            this.txtSecretanswer.isPassword = true;
+            this.txtSecretanswer.Location = new System.Drawing.Point(13, 239);
+            this.txtSecretanswer.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSecretanswer.Name = "txtSecretanswer";
+            this.txtSecretanswer.Size = new System.Drawing.Size(275, 35);
+            this.txtSecretanswer.TabIndex = 3;
+            this.txtSecretanswer.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // Forgot
             // 
@@ -181,7 +183,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(170)))), ((int)(((byte)(46)))));
             this.ClientSize = new System.Drawing.Size(301, 370);
             this.Controls.Add(this.btnRegister);
-            this.Controls.Add(this.txtSecretanser);
+            this.Controls.Add(this.txtSecretanswer);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.label4);
@@ -215,7 +217,7 @@
         private System.Windows.Forms.PictureBox btnExit;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private ns1.BunifuMetroTextbox txtSecretanser;
+        private ns1.BunifuMetroTextbox txtSecretanswer;
     }
 }
 

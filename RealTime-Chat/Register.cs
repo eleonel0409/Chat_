@@ -142,5 +142,42 @@ namespace RealTime_Chat
         {
 
         }
+
+        private void txtUsername_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                txtPassword.Focus();
+            }
+        }
+
+        private void txtPassword_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                txtEmail.Focus();
+            }
+        }
+
+        private void txtEmail_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                txtFullname.Focus();
+            }
+        }
+
+        private void txtFullname_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                txtSecretanswer.Focus();
+            }
+        }
+
+        private void txtSecretanswer_KeyDown(object sender, KeyEventArgs e)
+        {
+            Create(txtUsername.Text, txtPassword.Text, txtEmail.Text, txtFullname.Text, txtSecretanswer.Text);
+        }
     }
 }

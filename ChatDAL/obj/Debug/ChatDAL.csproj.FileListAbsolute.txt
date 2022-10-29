@@ -7,3 +7,12 @@ C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\bin\
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.dll
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.pdb
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.csprojAssemblyReference.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\bin\Debug\ChatDAL.dll.config
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\bin\Debug\ChatDAL.dll
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\bin\Debug\ChatDAL.pdb
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\obj\Debug\ChatDAL.csprojAssemblyReference.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\obj\Debug\ChatDAL.Properties.Resources.resources
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\obj\Debug\ChatDAL.csproj.GenerateResource.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\obj\Debug\ChatDAL.csproj.CoreCompileInputs.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\obj\Debug\ChatDAL.dll
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatDAL\obj\Debug\ChatDAL.pdb

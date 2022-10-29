@@ -70,7 +70,7 @@ namespace RealTime_Chat
             {
                 db.Close();
                 db.Open();
-                cmd = new SqlCommand("Select *From user_chat where username  ='" + txtUsername.Text + "' AND email = '"+txtEmail.Text +"' AND secretanswer ='"+txtSecretanser.Text+"'", db);
+                cmd = new SqlCommand("Select *From user_chat where username  ='" + txtUsername.Text + "' AND email = '"+txtEmail.Text +"' AND secretanswer ='"+txtSecretanswer.Text+"'", db);
                 dr = cmd.ExecuteReader();
                 Ping ping = new Ping();
                 PingReply pingStatus = ping.Send(IPAddress.Parse("10.10.4.125"));
@@ -82,7 +82,7 @@ namespace RealTime_Chat
                         {
                             if (txtEmail.Text.ToString() == dr["email"].ToString())
                             {
-                                if (txtSecretanser.Text.ToString() == dr["secretanswer"].ToString())
+                                if (txtSecretanswer.Text.ToString() == dr["secretanswer"].ToString())
                                 {
                                     MessageBox.Show("Your Password : " + dr["password"].ToString());
                                     db.Close();
@@ -109,5 +109,20 @@ namespace RealTime_Chat
             }
         }
 
+        private void txtUsername_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                txtEmail.Focus();
+            }
+        }
+
+        private void txtEmail_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                txtSecretanswer.Focus();
+            }
+        }
     }
 }

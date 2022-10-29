@@ -10,3 +10,15 @@ C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\bin\
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.csproj.CopyComplete
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.dll
 C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.pdb
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\bin\Debug\ChatBUS.dll
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\bin\Debug\ChatBUS.pdb
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\bin\Debug\ChatDAL.dll
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\bin\Debug\ChatDAL.pdb
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\bin\Debug\ChatDAL.dll.config
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\obj\Debug\ChatBUS.csprojAssemblyReference.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\obj\Debug\ChatBUS.Properties.Resources.resources
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\obj\Debug\ChatBUS.csproj.GenerateResource.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\obj\Debug\ChatBUS.csproj.CoreCompileInputs.cache
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\obj\Debug\ChatBUS.csproj.CopyComplete
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\obj\Debug\ChatBUS.dll
+C:\Users\kelvin.rocha\Documents\GitHub\Chat_\ChatBUS\obj\Debug\ChatBUS.pdb
