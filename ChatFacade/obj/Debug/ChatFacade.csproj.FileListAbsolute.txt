@@ -1,0 +1,12 @@
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\obj\Debug\ChatFacade.Properties.Resources.resources
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\obj\Debug\ChatFacade.csproj.GenerateResource.cache
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\obj\Debug\ChatFacade.csproj.CoreCompileInputs.cache
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\bin\Debug\ChatFacade.dll.config
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\bin\Debug\ChatFacade.dll
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\bin\Debug\ChatFacade.pdb
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\bin\Debug\ChatBUS.dll
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\bin\Debug\ChatBUS.pdb
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\obj\Debug\ChatFacade.csprojAssemblyReference.cache
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\obj\Debug\ChatFacade.csproj.CopyComplete
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\obj\Debug\ChatFacade.dll
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatFacade\obj\Debug\ChatFacade.pdb

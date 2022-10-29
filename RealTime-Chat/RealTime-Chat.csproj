@@ -130,6 +130,16 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChatEntity\ChatEntity.csproj">
+      <Project>{972953e6-21bb-4432-907d-a91643b51d3b}</Project>
+      <Name>ChatEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChatFacade\ChatFacade.csproj">
+      <Project>{35581f47-6df3-4925-a241-7e3ca5884c1c}</Project>
+      <Name>ChatFacade</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

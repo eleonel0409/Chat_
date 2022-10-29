@@ -120,17 +120,18 @@ namespace RealTime_Chat
                     cmd.CommandText = "SELECT * FROM message_chat ORDER BY id ASC";
                     cmd.ExecuteNonQuery();
                     dr = cmd.ExecuteReader();
-                    txtAll.Text = "";
+                    txtAll.Clear();
                     while (dr.Read())
                     {
                         txtAll.Text += "(" + dr["time"].ToString() + " / " + dr["fullname"].ToString() + ") :  " + dr["msg"].ToString() +"\n\n";
+
                     }
                     txtAll.SelectionStart = txtAll.TextLength;
                     txtAll.ScrollToCaret();
                     //db.Dispose();
                     db.Close();
                     OnlineLists();
-                    Thread.Sleep(500);
+                    Thread.Sleep(10000);
 
                 }
                 catch (MySqlException ex)

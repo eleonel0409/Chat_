@@ -1,0 +1,12 @@
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.csprojAssemblyReference.cache
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.Properties.Resources.resources
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.csproj.GenerateResource.cache
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.csproj.CoreCompileInputs.cache
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\bin\Debug\ChatBUS.dll
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\bin\Debug\ChatBUS.pdb
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\bin\Debug\ChatDAL.dll
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\bin\Debug\ChatDAL.pdb
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\bin\Debug\ChatDAL.dll.config
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.csproj.CopyComplete
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.dll
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatBUS\obj\Debug\ChatBUS.pdb

@@ -1,0 +1,9 @@
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.Properties.Resources.resources
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.csproj.GenerateResource.cache
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.csproj.CoreCompileInputs.cache
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\bin\Debug\ChatDAL.dll.config
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\bin\Debug\ChatDAL.dll
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\bin\Debug\ChatDAL.pdb
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.dll
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.pdb
+C:\Users\emerson.barboza\Desktop\Realtime-Chat-master\RealTime-Chat\ChatDAL\obj\Debug\ChatDAL.csprojAssemblyReference.cache
